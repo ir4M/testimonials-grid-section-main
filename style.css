@@ -10,7 +10,7 @@ body {
     min-height: 100vh;
     background: hsl(210, 46%, 95%);
     font-family: 'Barlow Semi Condensed', sans-serif;
-    line-height: 1.7;
+    /*line-height: 1.7;*/
     font-size: 13px;
     display: flex;
     flex-direction: column;
@@ -30,7 +30,7 @@ body {
 .card {
     background: hsl(0, 0%, 100%);
     border-radius: 10px;
-    padding: 40px;
+    padding: 30px;
     box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
     margin-bottom: 10px;
 }
